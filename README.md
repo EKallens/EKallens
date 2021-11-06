@@ -1,4 +1,4 @@
-### :rocket: Edwin Kallens :rocket:
+### Edwin Kallens :rocket:
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -27,5 +27,3 @@ const me = {
 <hr>
 
 <p><img src="https://komarev.com/ghpvc/?username=ekallens" alt="ekallens" /></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ekallens&show_icons=true" alt="ekallens" /> </p>
