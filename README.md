@@ -18,7 +18,7 @@
 <p><a href="https://github.com/ekallens" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/edwin-kallens-padilla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p>:round_pushpin: I'm currently live in Viña del Mar, Chile.</p>
+<p>:round_pushpin: Viña del Mar, Chile.</p>
 
 <hr>
 
